@@ -1,1 +1,4 @@
-md2h/dist-newstyle
+dist-newstyle/
+.DS_Store
+*.hi
+*.o
