@@ -1,0 +1,7 @@
+apple
+pen
+pencil
+win
+lose
+draw
+
